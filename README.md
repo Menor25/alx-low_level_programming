@@ -1,1 +1,1 @@
-Project in C programming
+pointers, arrays and string in C
